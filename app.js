@@ -91,7 +91,7 @@ btnVerify.addEventListener('click', () => {
         `;
 
         setTimeout(() => {
-            window.location.href = `https://gaurpeeyush.github.io/CashFlow/Home.html`;
+            window.location.href = `https://gaurpeeyush.github.io/CashFlow/form.html`;
         }, 3000);
     } else {
         icon.classList.remove('fa-check-circle');
